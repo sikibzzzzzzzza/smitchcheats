@@ -2,15 +2,15 @@
   {
     "name": "Free Fire Internal",
     "image": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg",
-    "update": "2026-06-28",
+    "update": "2026-06-24",
     "status": "safe",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
-    "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/smitchcheats/refs/heads/main/vdaffinternal.dll",
+    "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffinternal.dll",
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/",
+        "url": "https://youtu.be/dQw4w9WgXcQ",
         "thumb_url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
       },
       {
@@ -27,3 +27,20 @@
         "thumb_url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
       }
     ]
+  },
+  {
+    "name": "Free Fire External",
+    "image": "https://play-lh.googleusercontent.com/LsyJwlO2A4v2rdl8PqCpBaaWOsiF2rcoCe6jca5S5py0-PHtKKsymqUZ8EYK9D_FQXagJmuqmE9ntFafsmxNdw=w526-h296-rw",
+    "update": "2026-06-20",
+    "status": "at_own_risk",
+    "target_process": "HD-Player.exe",
+    "launch_exe": "",
+    "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffexternal.dll",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://play-lh.googleusercontent.com/LsyJwlO2A4v2rdl8PqCpBaaWOsiF2rcoCe6jca5S5py0-PHtKKsymqUZ8EYK9D_FQXagJmuqmE9ntFafsmxNdw=w526-h296-rw"
+      }
+    ]
+  }
+]
